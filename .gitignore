@@ -2,6 +2,7 @@
 *.dll
 *.depend 
 *.layout
+.vscode/
 
 bin/
 obj/
