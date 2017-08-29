@@ -35,7 +35,7 @@ int main()
     std::cout << "Please enter window height: ";
     std::cin >> h;
 
-    Application app(w, h);;
+    Application app(w, h);
     app.run();
     return 0;
 }
