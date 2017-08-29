@@ -2,10 +2,11 @@
 *.dll
 *.depend 
 *.layout
-
+*.gch
 bin/
 obj/
-
 *.7z
-
-PredatorAndPreyCellularAutomaton/
+PredatorAndPrey
+SFML-Build/
+\.vscode/tasks\.json
+\.vscode/launch\.json
